@@ -44,7 +44,8 @@ Close the Simulation Once done, by going to Simulation → "Close Simulation
 
 ## T FLIP FLOP :
 
-<img width="596" height="331" alt="image" src="https://github.com/user-attachments/assets/34309435-a87b-4553-bf71-c3d908a8cd18" />
+<img width="596" height="331" alt="image" src="https://github.com/user-attachments/assets/bd22a052-ac24-49bc-88e1-96b16fb2ad56" />
+
 
 ## RTL Code:
 
